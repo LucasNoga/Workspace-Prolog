@@ -1,0 +1,49 @@
+Partie A
+1) 2
+2) 3
+3) 2
+4) 4
+5) 1
+6) 3
+7) 2
+8) 2
+9) 3, 4
+10) 3
+
+Partie B
+1) 2
+2) 3
+3) 4
+4) 3
+5) 1
+6) 4
+7) 1
+8) 1
+9) 4
+10) 2, 3, 4
+
+Partie C
+1)
+<? $liste_passagers = rand(0, 10);?>
+
+2)
+<? $liste_kilometres =  [1, 2, 5, 10, 20, 100, 500, 1000];?>
+
+
+3)
+<? function balise_option($name, $liste){
+	return "<select $name> $liste </select>";
+}
+?>
+
+
+4)
+
+
+
+5)
+
+
+6)
+
+Partie D
